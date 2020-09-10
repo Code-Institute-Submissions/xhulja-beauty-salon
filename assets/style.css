@@ -33,4 +33,10 @@ body {
     color: #9dacff;
 }
 
-
+.main-tagline em{
+    font-size: 5rem;
+    font-weight: 200;
+    color: #4bc0d9;
+    margin: .5rem auto;
+    text-align: center;
+}
