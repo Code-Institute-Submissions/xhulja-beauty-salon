@@ -5,8 +5,32 @@
 body {
     background: #4c1741;
 }
-
+                     /*------navbar------*/
 .navbar-brand {
     font-size: 3rem;
+}
+
+.navbar-nav .nav-link {
+    font-size: 2rem;
     color: #76e5fc !important;
 }
+
+.navbar-light .navbar-toggler {
+    color: #76e5fc;
+    border-color: #76e5fc;
+}
+
+.navbar-light .navbar-toggler {
+    color: #76e5fc;
+    border-color: #76e5fc;
+}
+.navbar-nav .nav-link:hover {
+    font-size: 3rem;
+}
+
+.home-page {
+    font-size: 2rem;
+    color: #9dacff;
+}
+
+
