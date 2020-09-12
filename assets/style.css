@@ -58,3 +58,7 @@ p {
     font-size: 1.5rem;
     color: #76e5fc !important;
 }
+.bordered {
+    border: solid 1px #76e5fc;
+    border-radius: 1rem;
+}
