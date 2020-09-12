@@ -27,7 +27,7 @@ body {
 .navbar-nav .nav-link:hover {
     font-size: 3rem;
 }
-
+                    /*---------homepage-------*/
 .home-page {
     font-size: 2rem;
     color: #9dacff;
@@ -48,6 +48,12 @@ p {
     font-size: 2rem;
     color: #76e5fc !important;
 }
+
+.container {
+    background: #5c2751;
+}
+
+                       /*----------footer------*/
 .footer {
     font-size: 1.5rem;
     color: #76e5fc !important;
