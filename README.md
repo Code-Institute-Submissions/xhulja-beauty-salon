@@ -8,7 +8,6 @@
 
 <!--Images-->
 
-![Nails](https://c6b5e9d1-55e9-4e7e-845b-8fd2c4dc0ff9.ws-eu01.gitpod.io/mini-browser/workspace/beauty-salon/assets/css/images/image-1.jpg)
 ![Nails](https://c6b5e9d1-55e9-4e7e-845b-8fd2c4dc0ff9.ws-eu01.gitpod.io/mini-browser/workspace/beauty-salon/assets/css/images/image-2.jpeg)
 
 Thank you for visiting my website. You will find all the information about my project in this README.md file.
@@ -162,7 +161,7 @@ Hope you will enjoy coding.
 
 * __Background__:
   
-  The images i used for background are real pictures made in my work,
+  The images i used for home page are real pictures made in my work,
   because i think is good way of showing to clients what we offer.
 
 
@@ -187,7 +186,7 @@ It was very simple design just to get the idea how is going to look the structur
 
 
 
-## Tools 
+## Tools & Libraries
 
 * [Git](https://git-scm.com/)
 * [Bootstrap](https://maps.google.com/)
