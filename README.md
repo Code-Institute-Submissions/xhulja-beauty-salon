@@ -8,7 +8,7 @@
 
 <!--Images-->
 
-![Nails](https://c6b5e9d1-55e9-4e7e-845b-8fd2c4dc0ff9.ws-eu01.gitpod.io/mini-browser/workspace/beauty-salon/assets/css/images/image-2.jpeg)
+![Nails](assets/css/images/image-2.jpeg)
 
 Thank you for visiting my website. You will find all the information about my project in this README.md file.
 Hope you will enjoy coding.
@@ -136,7 +136,7 @@ Hope you will enjoy coding.
   I use the icon ‘bars’ from font-awesome icons.
  I had to make sure that the icon was perfect size on smaller devices to ensure easy access.
 
-* __Colours__:
+* __Colors__:
   
    Purple colour is a delicate color that means sweet, nice, 
    playful, cute, romantic, charming, and tenderness,
@@ -152,12 +152,12 @@ Hope you will enjoy coding.
   
    * Navigation colour: #76e5fc "__Light Blue__" Light blue is a peaceful, calming color. According to color psychology, blue is associated with trustworthiness and reliability. Blue is also said to promote feelings of tranquility; light blue’s gentle appearance means it is particularly likely to make that impression.
 
-    Colours:
+   _Colors_:
 
-    $primary-color: #5c2751; rgb(92, 39, 81);
-    $secondary-color: #4c1741; rgb(76, 23, 65);
-    $tertiary-color: #9dacff; rgb(157, 172, 255);
-    $navigation-color: #76e5fc; rgb(118, 229, 252);
+   * $primary-color: #5c2751; rgb(92, 39, 81);
+   * $secondary-color: #4c1741; rgb(76, 23, 65);
+   * $tertiary-color: #9dacff; rgb(157, 172, 255);
+   * $navigation-color: #76e5fc; rgb(118, 229, 252);
 
 * __Background__:
   
