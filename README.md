@@ -1,9 +1,9 @@
-# beauty-salon
+
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/xhulja14/Xhulja-s-Beauty-Salon)
 
 
 <!-- Heading-->
-# Xhulja's Beauty Salon
+#  Beauty Salon
 
 
 <!--Images-->
@@ -139,22 +139,26 @@ Hope you will enjoy coding.
 
 * __Colours__:
   
-   Pink colour is a delicate color that means sweet, nice, 
+   Purple colour is a delicate color that means sweet, nice, 
    playful, cute, romantic, charming, and tenderness,
     is associated with flowers, and sweetness. 
     I think is best  colour for beauty salon websites.
 
-   * Primary: #DA17B7 "__Steel Pink__" i chose this as primary colour because i think
+   * Primary: #5c2751 "__Purple__" i chose this as primary colour because i think
    is perfect for influencing cuteness and charm.
 
-   * Secondary: #FD6C9E "__French Pink__" this colour is kind and comforting, full of sympathy and compattion,
-  makes us feel accepted, perfect feeling for clients.
- 
-   * Navigation colour: #BC00DD "__Electric Purple__" The color purple is often associated with royalty, nobility, luxury, power, and ambition.
-   Purple also represents meanings of wealth, extravagance, creativity, wisdom, dignity,  peace, mystery, independence, and magic.
+   * Secondary: #4c1741 "__Dark Purple__"  Purple combines the stability of the blue color and the energy of the red. Through the ages, purple has always been associated with royalty, nobility and prestige. The color purple can symbolize mystery, magic, power and luxury.
+  
+   * Tertiary: #9dacff  "__Lilac__" ilac is a shade of purple that can be achieved by mixing white, red and blue. It has been fortified by knowledge and softened through experience. With regards to intensity, this may appear to be closely related to pink. Lilac color meaning can be related to tranquility, peace, and friendship.
+  
+   * Navigation colour: #76e5fc "__Light Blue__" Light blue is a peaceful, calming color. According to color psychology, blue is associated with trustworthiness and reliability. Blue is also said to promote feelings of tranquility; light blue’s gentle appearance means it is particularly likely to make that impression.
 
-   * Default Background colour: #FADDE1 "__Pale Pink__" Pink shades are believed to bring about serenity, relaxation, acceptance, and contentment, 
-   as well to neutralize disorder or soften frustration.
+    Colours:
+
+    $primary-color: #5c2751; rgb(92, 39, 81);
+    $secondary-color: #4c1741; rgb(76, 23, 65);
+    $tertiary-color: #9dacff; rgb(157, 172, 255);
+    $navigation-color: #76e5fc; rgb(118, 229, 252);
 
 * __Background__:
   
