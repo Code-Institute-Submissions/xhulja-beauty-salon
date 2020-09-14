@@ -55,6 +55,10 @@ p {
     border: solid 1px #76e5fc;
     border-radius: 1rem;
 }
+.fa {
+    font-size:1.5rem;
+    color: #76e5fc;
+}
             /*------------image-----------------*/
 .image img{
     margin: 1rem auto;
