@@ -193,7 +193,9 @@ It was very simple design just to get the idea how is going to look the structur
 * [Font-Awesome](https://fontawesome.com/)
 * [TinyPng](https://tinypng.com/) __(image compression)__
 
+## Testing: 
 
+ 
  # Deployment:   
 
 Beauty Salon was developed on GitPod, using  GitHub to host the repository.
