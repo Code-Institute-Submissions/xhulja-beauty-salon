@@ -195,6 +195,37 @@ It was very simple design just to get the idea how is going to look the structur
 
 ## Testing: 
 
+This was my first project, my testing was extremely thorough, making sure that i checked every line of code  ran without issues. Testing was done by me and double checked by my mentor.
+
+* Test Planning:
+ During planning for this project i knew that i needed to make sure that every code is raning well during and after the project is completed.
+ Wireframes were good help at how i will create the layouts, organise each section and follow my testing guide to check that it had been implemented correctly and works as i was expecting.
+
+* Testing Stories:
+
+I ran into an issue with how I was using the full links of pictures implemented in my project, but this way was not making the code works as i wanted so i used the relative paths to fix the issue.
+Another issue was that i was working with two branches, but thanks to the pull request option i made it work in one branch and the site works well.
+
+ * Responsiveness -
+
+Plan : I knew that this project needed to be FULLY responsive and mobile friendly. I used Bootstrap which is very helpful and making the HTML works well.
+Implementation : Making sure that i was using the correct class attributes so my code will ran correctly, this was very easy way thanks to use of Bootstrap.
+Result : The Responsiveness of the site works as expected, the site can be viewed in any device.
+Verdict : This test has passed and  the site is responsive.
+
+* Design -
+
+Plan :I tryed to keep simple design and using good colours and images. Using colours like purple and light blue  provides great contrast .  Using sites like w3schools.com allowed me to search for the perfect colours.
+Implementation : Adding this colours was good choice and they were responsive.
+Result : The theme of the site matching well with this colours.
+Verdict : This test has passed and colours are perfect for the purpose of the site.
+
+* Form Validation -
+
+Plan : Making the plan of this project i wanted  to include simple form validation on the contact form.
+Implementation :Implementation of this form was very simple and worked as expected.
+Result : Contact forms worked in expected behavior.
+
  
  # Deployment:   
 
