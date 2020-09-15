@@ -236,7 +236,7 @@ When deploying Beauty Salon  the following steps were made:
  * Opened up GitHub in the browser.
  * Signed in using username and password.
  * Selected my repositories.
- *  Navigated to 'https://github.com/xhulja14/beauty-salon'.
+ *  Navigated to 'https://xhulja14.github.io/beauty-salon/'.
  * In the top navigation clicked 'settings'.
  * Scrolled down to the GitHub Pages area.
  * Selected 'Master Branch' from the 'Source' dropdown menu.
