@@ -11,7 +11,7 @@ h2 {
     font-size: 2rem;
     color: #76e5fc !important;
 }
-p {
+p  {
     font-size: 2rem;
     color: #76e5fc !important;
 }
@@ -45,6 +45,10 @@ p {
     color: #4bc0d9;
     margin: .5rem auto;
     text-align: center;
+}
+ul li  {
+    font-size: 2rem;
+    color: #76e5fc !important;
 }
              /*-------------footer--------------*/
 .footer {
