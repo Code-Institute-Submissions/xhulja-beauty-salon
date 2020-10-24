@@ -60,8 +60,12 @@ ul li  {
     border-radius: 1rem;
 }
 .fa {
-    font-size:1.5rem;
+    font-size:3rem;
     color: #76e5fc;
+}
+.social-link {
+    font-size: 2rem;
+    color: #76e5fc !important;
 }
             /*------------image-----------------*/
 .image img{
