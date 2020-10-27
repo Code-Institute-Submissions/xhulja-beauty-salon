@@ -1,10 +1,9 @@
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/xhulja14/Xhulja-s-Beauty-Salon)
+[![README.md](https://b0237053-f94c-44db-bfe2-6c4b93c4f709.ws-eu01.gitpod.io/#/workspace/beauty-salon)]
 
 
 <!-- Heading-->
 #  Beauty Salon
-
 
 <!--Images-->
 
@@ -35,7 +34,7 @@ Hope you will enjoy coding.
 
    * I want to make an easy and effective website.
                                        <!--Strong-->
-   * Easy access with our  team in __Beauty Salon__ and more knowledge about treatments providen in our salon.
+   * Easy access with our  team in __Xhulja Beauty Salon__ and more knowledge about treatments providen in our salon.
 
    * Contact details.
 
@@ -50,68 +49,41 @@ Hope you will enjoy coding.
   
   1.Interactive website so user can choose the best beauty services.
 
+ 2.Effective website that serves as a tool to find the information they need.
 
-  2.Effective website that serves as a tool to find the information they need.
-
-
-  3.Contact forms.
-
-
-
-
-
-
-
-
+ 3.Contact forms.
 
 * __User Stories__:
   
-   * Pamela.D 
-
-  " I prefer to use simple websites,
+ * Pamela.D 
+ " I prefer to use simple websites,
    having all the information needed so i can choose the best beauty service that im looking for."
 
-
-  * Asra.M 
-
-  " I like websites like this where i can see in pictures what this salon provides.    
+ * Asra.M 
+ " I like websites like this where i can see in pictures what this salon provides.    
     I always have find it easy to contact them from the website.
     The good thing is that i can use this website from my phone, tablet, pc."
-
-
-
-
-
 
 
 * __Site Owner Goals__:
 
   * Creating an effective website.
-
   * Gather information on what type of beauty services people are looking for.
   * Recieve contact details through use of contact form.
 
 
-
-
 # User Requirements and Expectations
 
-  * __Requirements__:
+* __Requirements__:
 
-
-   * Navigate the website using the navbar which should be clear and hierarchical.
+  * Navigate the website using the navbar which should be clear and hierarchical.
   
-   * Be provided with information of different services of the salon.
+  * Be provided with information of different services of the salon.
 
-   * Contact Form validation to help against spam.
-
-
+  * Contact Form validation to help against spam.
 
 
-
-
-
-  * __Expectations__:
+* __Expectations__:
 
   * Content is visually satisfying and informative.
   
