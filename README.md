@@ -1,9 +1,6 @@
 
-[![README.md](https://b0237053-f94c-44db-bfe2-6c4b93c4f709.ws-eu01.gitpod.io/#/workspace/beauty-salon)]
-
-
 <!-- Heading-->
-#  Beauty Salon
+# Xhulja Beauty Salon
 
 <!--Images-->
 
@@ -162,6 +159,7 @@ It was very simple design just to get the idea how is going to look the structur
 
 * [Git](https://git-scm.com/)
 * [Bootstrap](https://maps.google.com/)
+* [Jquery](https://jquery.com/)
 * [Font-Awesome](https://fontawesome.com/)
 * [TinyPng](https://tinypng.com/) __(image compression)__
 
@@ -172,6 +170,30 @@ This was my first project, my testing was extremely thorough, making sure that i
 * Test Planning:
  During planning for this project i knew that i needed to make sure that every code is raning well during and after the project is completed.
  Wireframes were good help at how i will create the layouts, organise each section and follow my testing guide to check that it had been implemented correctly and works as i was expecting.
+* Testing steps :
+First think i wanted to make sure after i finished my website was to check that my website was effective.
+Implementation : I started by checking my website in the W3C Validation Service. I copy and pasted one by one the code of evey page that i have in my website and checked through W3C Validation Service.
+I used validate by direct input method.
+First step : opened Gitpod, clicked index.html and then i copied the code and went to W3C official and clicked over direct input validator. 
+Result : my code passed without mistakes.
+
+![Index.html](assets/css/images/index.html.png)
+
+Then i cliked the contact.html page and again i copied the code and went through W3C direct input validator.
+Result : passed without errors.
+
+![Contact.html](assets/css/images/contact.html.png)
+
+Clicked on gallery.html copied the code and checked through W3C.
+Result : as expected my code passed without errors.
+
+![Gallery.html](assets/css/images/gallery.html.png)
+
+Finally i checked my last page which is video.html and it passed as well as expected.
+
+![Video.html](assets/css/images/video.html.png)
+
+Verdict : My website is raning without errors .
 
 * Testing Stories:
 
@@ -182,8 +204,11 @@ Another issue was that i was working with two branches, but thanks to the pull r
 
 Plan : I knew that this project needed to be FULLY responsive and mobile friendly. I used Bootstrap which is very helpful and making the HTML works well.
 Implementation : Making sure that i was using the correct class attributes so my code will ran correctly, this was very easy way thanks to use of Bootstrap.
+I went through a design tool called "AM I RESPONSIVE" to check how my website respond in different devices.
 Result : The Responsiveness of the site works as expected, the site can be viewed in any device.
 Verdict : This test has passed and  the site is responsive.
+
+![Am i responsive](assets/css/images/Am%20i%20responsive.png)
 
 * Design -
 
@@ -201,9 +226,9 @@ Result : Contact forms worked in expected behavior.
  
  # Deployment:   
 
-Beauty Salon was developed on GitPod, using  GitHub to host the repository.
+Xhulja Beauty Salon was developed on GitPod, using  GitHub to host the repository.
 
-When deploying Beauty Salon  the following steps were made:
+When deploying xhulja Beauty Salon  the following steps were made:
 
  * Opened up GitHub in the browser.
  * Signed in using username and password.
@@ -213,7 +238,7 @@ When deploying Beauty Salon  the following steps were made:
  * Scrolled down to the GitHub Pages area.
  * Selected 'Master Branch' from the 'Source' dropdown menu.
  * Clicked to confirm my selection.
- * Beauty Salon now live on GitHub Pages.
+ * Xhulja Beauty Salon now live on GitHub Pages.
 
 
 
