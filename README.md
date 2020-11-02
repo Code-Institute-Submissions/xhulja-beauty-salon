@@ -93,7 +93,7 @@ Hope you will enjoy coding.
 
 * __Fonts__:
   
-  I will use the font [LATO](http://www.latofonts.com/lato-free-fonts/) as it  a very simple style which provides the easiest
+  I will use the font [Arial](http://all-fonts.com/about-fonts/download-arial-font/) as it  a very simple style which provides the easiest
    nature of the overall site design.
    
     The focus of the content is to provide an informative experience for the customer,
